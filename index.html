@@ -296,15 +296,28 @@ grow as a design manager.
 	</div> <!--INNER CONTAINER-->
 </div> <!--OUTER CONTAINER-->
 
-<!-- Move all script tags here, just before the closing body tag -->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script type="text/javascript" src="/emilydicesaro.com/script/jquery.mousewheel.js"></script> 
-<script type="text/javascript" src="/emilydicesaro.com/script/jquery.scrollTo-min.js"></script> 
-<script type="text/javascript" src="/emilydicesaro.com/script/jquery.jscrollpane.min.js"></script> 
 <script type="text/javascript">
-    // Your existing JavaScript code here
+    // Your custom JavaScript code
     $(document).ready(function() {
-        // ... (rest of your JavaScript code)
+        var listLength = $("#main_nav ul li").length;
+        var itemWidth = parseInt( $(".inner_example").css("width").replace(/[^-\d\.]/g, '') ) + parseInt( $(".inner_example").css("marginLeft").replace(/[^-\d\.]/g, '') );
+
+        var containerWidth = listLength * itemWidth - 100;
+        $(".first").css( "marginLeft", "50px" );
+        $("#inner_container").css( "width", containerWidth );
+        $("#home_img").click( function(){ $( '#outer_container' ).scrollTo( 0, animationDuration, { easing:'easeInOutCubic'} ); } );
+        $('.wlink').click( function(){
+            var thisclass = $(this).attr('id');
+            var goclass = "." + thisclass.split( "_link" )[0];
+            var gox = $( goclass ).position().left;
+            if( goclass == ".weathercompany" )
+            {
+                $( '#outer_container' ).scrollTo( gox, animationDuration, { easing:'easeInOutCubic'} );
+            }else {
+                $( '#outer_container' ).scrollTo( gox + 555, animationDuration, { easing:'easeInOutCubic'} );
+            }
+            trackerFunction();
+        });
     });
 </script>
 
