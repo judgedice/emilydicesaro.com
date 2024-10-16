@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<content>
+ <period description = "Castle rock born in a period of intensive volcanic activity&lt;br&gt;&lt;br&gt;Last ice age flattens all but the hardened core of volcano&lt;br&gt;&lt;br&gt;First settlements develop on castle rock&lt;br&gt;&lt;br&gt;Late bronze-age people living on castle rock&lt;br&gt;&lt;br&gt;Settlement of iron-age people&lt;br&gt;&lt;br&gt;Romans arrived in Edinburgh&lt;br&gt;&lt;br&gt;Din Eidyn captured by Angles and renamed Edinburgh">
+	<thumbnail title = "Volcanic Rock"
+	    dates = "340,000,000 BC
+		  25,000 BC
+		    
+	    995 BC  
+			
+	   900 BC  
+			
+100 BC-200AD
+			 43AD 
+			  638 "
+		image = "timeline/period_1/thumbs/thumb_1.jpg"
+		pop_text = "354 million years ago, the rock on which Edinburgh Castle now stands was an active volcano. This volcano, believed to be located under water when it first erupted, is responsible for creating the powerful rock formation which became home to many settlements, fortresses and finally Edinburgh Castle."
+		pop_image = "timeline/period_1/volcano.jpg" />
+ 
+	<thumbnail title = "Romans"
+		image = "timeline/period_1/thumbs/thumb_2.jpg"
+		pop_text = "Pottery has been found on the Castle Rock which dates from the Roman period.  The rock was an important settlement of the Romans during the first and second century AD. It was at this time that the Romans were on their way to build the Antonine Wall, Rome¬¨ˆ‚s most northerly frontier in Europe."
+		pop_image = "timeline/period_1/pottery.jpg" />
+		
+	<thumbnail title = "Dunedin"
+		image = "timeline/period_1/thumbs/thumb_3.jpg"
+		pop_text = "Edinburgh has also been known as 'Dunedin', deriving from the Scottish Gaelic, Dun Edan. Dunedin, New Zealand, was originally called 'New Edinburgh', and is still nicknamed 'The Edinburgh of the South'."
+		pop_image = "timeline/period_1/dunedin.jpg" />
+
+</period>
+
+ <period description = "St Margaret's Chapel built by David I&lt;br&gt;&lt;br&gt;Edward I of England, known as 'The Hammer of Scots', captures castle after 3-day siege&lt;br&gt;&lt;br&gt;Castle dismantled by Robert the Bruce to keep it from the English&lt;br&gt;&lt;br&gt;David II, newly returned from imprisonment in England, orders rebuilding of castle&lt;br&gt;&lt;br&gt; Mons Meg arrives at castle&lt;br&gt;&lt;br&gt;James III declares Edinburgh the 'capital' of Scotland&lt;br&gt;&lt;br&gt;Sceptre presented to James IV, probably by Pope Alexander VI"> 	
+	<thumbnail title = "St. Margaret"
+dates = "1130
+
+	1296
+	
+	1314
+	
+	1356
+	
+	1457
+	
+	1480
+	
+	1494"
+		image = "timeline/period_2/thumbs/thumb_1.jpg"
+		pop_text = "Princess Margaret, the great niece of Edward the Confessor, fleeing from William the Conqueror, came to Scotland. She soon fell in love with Malcolm III and when they were married in 1071, she became Queen of Scotland.  She was a very religious woman and well loved as a Queen.  After hearing of the death of her husband and eldest son while fighting in Alnwick, Margaret became ill and died 4 days later in Edinburgh Castle.  Her son David I was  crowned king in 1124 and had St. Margaret¬¨ˆ‚s Chapel build in her honor.  This is now the oldest remaining building in the castle."
+		pop_image = "timeline/period_2/st.margaret.jpg" />
+		
+	<thumbnail title = "Stone Buildings"
+		image = "timeline/period_2/thumbs/thumb_2.jpg"
+		pop_text = "In the 1100¬¨ˆ‚s, with the exception of St. Margaret¬¨ˆ‚s Chapel and St. Mary¬¨ˆ‚s Church, all of the building making up the castle were made of timber.  As medieval weapons improved, nobles and kings needed to build fortresses that were more secure. This, combined with the development of skilled stone masonries, led to the early stone castles.  During the 13th century most of the castle buildings and their defenses were rebuilt in stone."
+		pop_image = "timeline/period_2/stones.jpg" />		
+
+	<thumbnail title = "Prisons"
+		image = "timeline/period_2/thumbs/thumb_3.jpg"
+		pop_text = "In 1480 a labyrinth of stone vaults were built under the Great Hall.  Their main function was to serve as a prison or dungeon.  The word dungeon is a corruption of ¬¨ˆ´donjon¬¨ˆ‚, which was the strongest, and main tower of the castle where the lord lived.  The castle prison was often located in the donjon¬¨ˆ‚s basement, so that the lord could keep a close eye on his prisoners."
+		pop_image = "timeline/period_2/prison.jpg" />
+ 
+	<thumbnail title = "Nor'Loch"
+		image = "timeline/period_2/thumbs/thumb_4.jpg"
+		pop_text = "During the rein of James II, known as James of the Fiery Face because of a large birthmark on his face, Nor' Loch was developed in the valley for added protection of the city. It was part of the town's defenses, and in peaceful times, it was drained. It is now the location of the Princess St. Gardens."
+		pop_image = "timeline/period_2/loch_nor.jpg" />		
+</period>
+ 
+ 
+ <period description = "Sword of State presented to James IV by Pope Pius ll&lt;br&gt;&lt;br&gt;Great Hall completed for James IV&lt;br&gt;&lt;br&gt;Mary of Guise, queen-regent, dies in castle&lt;br&gt;&lt;br&gt;Mary Queen of Scots gives birth to future James VI & I in castle&lt;br&gt;&lt;br&gt;'Lang Siege' results in David's Tower destruction and Palace's ruination&lt;br&gt;&lt;br&gt;Cromwell captures and holds castle&lt;br&gt;&lt;br&gt;Castle now effectively becomes an army garrison">
+ 	
+	<thumbnail title = "Mary Queen of Scots"
+	dates = "1508
+	
+	1511
+	
+	1560
+	
+	1566
+	
+	1571-73
+	
+	1650-59
+	
+	1660"
+		image = "timeline/period_3/thumbs/thumb_1.jpg"
+		pop_text = "Mary was Queen of Scotland about 400 hundred years ago, and was one of the most tragic queens in British history. Born in 1542, her parents were Mary of Guise a French noblewoman and James V of Scotland. She never saw her father as he died when she was just six days old. Mary became queen when she was less than a year old and for her own safety was sent to France at the age of six.  She returned to Scotland at age 19 to take the thrown."
+		pop_image = "timeline/period_3/mary.jpg" />
+		
+		<thumbnail title = "Witch Hunts"
+		image = "timeline/period_3/thumbs/thumb_2.jpg"
+		pop_text = "'Hammer of the Witches' was the title given to Mary Queen of Scot¬¨ˆ‚s son James VI.  During his rule, and at his command, over 500 men and women were tortured and burned at the stake on the castle esplanade after they had been found guilty of witchcraft."
+		pop_image = "timeline/period_3/witch_burn.jpg" />
+		
+		<thumbnail title = "John Knox"
+		image = "timeline/period_3/thumbs/thumb_3.jpg"
+		pop_text = "John Knox (1513-1572) is credited as being the maker of a Protestant Scotland.  As a Protestant minister, he traveled throughout England and Scotland preaching against the Catholic faith.  In 1560, after a Protestant siege on Mary of Guise forced her to move to Edinburgh Castle for safety, the Protestants, led by Knox, forged the Treaty of Edinburgh, signed July 6. The treaty broke the alliance with France and paved the way of the founding of the Presbyterian church in Scotland."
+		pop_image = "timeline/period_3/john_knox.jpg" />
+		
+		<thumbnail title = "Oliver Cromwell"
+		image = "timeline/period_3/thumbs/thumb_4.jpg"
+		pop_text = "Oliver Cromwell (1599-1658) was an English military leader and politician. He led a siege on Edinburgh Castle in 1650 and once in control, he established the Scottish headquarters for his ¬¨ˆ´New Model Army¬¨ˆ‚. He started by converting the Great Hall into barracks and digging a dry ditch in front of the gatehouse. Under Cromwell, the royal castle became a military fortress and much of the building that went on during this time did so with very little regard for the historical value of the castle. Much of what visitors see today dates from this phase of use."
+		pop_image = "timeline/period_3/oliver.jpg" />
+</period>
+
+<period description = "Act uniting Scotland and England is passed in the Scottish Parliament&lt;br&gt;&lt;br&gt;The Jackobites, lead two major, yet unsuccessful, revolutions; the last of which was initiated by Bonnie Prince Charlie&lt;br&gt;&lt;br&gt;Mons Meg taken to Tower of London (under terms of Disarming Act)&lt;br&gt;&lt;br&gt;Military prison becomes the primary use of the castle&lt;br&gt;&lt;br&gt;Seven Years' War&lt;br&gt;&lt;br&gt;War of American Independence&lt;br&gt;&lt;br&gt;Napoleonic wars">
+ 	
+	<thumbnail title = "Jacobites"
+	dates = "1715
+	
+	1715/1745
+
+	
+	1754
+	
+	1757
+	
+	1700s
+	
+	1757-63
+	
+	1775-83"
+		image = "timeline/period_4/thumbs/thumb_1.jpg"
+		pop_text = "People who followed the political movement dedicated to restoring the Stuart kings to the thrones of England and Scotland.  There were two major Jacobite revolutions in Scotland.  The first was in 1715 and the second in 1745."
+		pop_image = "timeline/period_4/stewarts.jpg" />
+		
+		<thumbnail title = "Bonnie Prince Charlie"
+		image = "timeline/period_4/thumbs/thumb_2.jpg"
+		pop_text = "'Bonnie Prince Charlie is one of the best-known historical Scottish heroes. He was not, however, Scottish, but was born into the Stuart Dynasty in Rome, Italy on December 31, 1720. His grandfather, James II of England had ruled that country from 1685-1689 at which time he was deposed by the Dutch protestant, William III of Orange. Since the exile of James II the so-called 'Jacobite Cause' attempted to return the Stuarts to the English and Scottish thrones. Bonnie Prince Charlie was to play a major part in this ultimate goal."
+		pop_image = "timeline/period_4/bpc.jpg" />
+		
+		<thumbnail title = "Enlightenment Period"
+		image = "timeline/period_4/thumbs/thumb_3.jpg"
+		pop_text = "(1707-1800) This was a time of great development within Edinburgh.  Nor¬¨ˆ‚ Loch below the North side of the castle was filled in. New streets and thousands of houses were planned and built in the Classical fashion. This period of energetic building left the city one of the most architecturally beautiful in the world."
+		pop_image = "timeline/period_4/enlightenment.jpg" />
+		
+</period>
+
+<period description = "Honours rediscovered by Walter Scott and put on public display&lt;br&gt;&lt;br&gt;Mons Meg brought back from Tower of London&lt;br&gt;&lt;br&gt;St Margaret's Chapel rediscovered and restored&lt;br&gt;&lt;br&gt;One o'Clock Gun fired for first time (from Half-Moon Battery)&lt;br&gt;&lt;br&gt;Great Hall restored">
+<thumbnail title = "Honours of Scotland"
+dates = "1818
+
+1829
+
+1846-52
+
+1861
+
+1887-91"
+		image = "timeline/period_5/thumbs/thumb_1.jpg"
+		pop_text = "The royal regalia, otherwise known as the 'Honours of Scotland' consist of a crown, a sceptre and a sword and they are amongst the oldest crown jewels in Europe - the crown was first formed by King Robert I in the early 14th century.  After the 1707 Treaty of the Union between Scotland and England, the Honours were locked away in the Crown Room. Then, in 1818, Walter Scott obtained the permission to break into the Crown Room to look for the Honours.  He found them in an oak chest, exactly as they had been left 111 years before."
+		pop_image = "timeline/period_5/honours.jpg" />
+		
+		
+	<thumbnail title = "Dog Cemetery"
+		image = "timeline/period_5/thumbs/thumb_2.jpg"
+		pop_text = "Many of the military service men living in the Castle barracks over the years had regimental mascots and pet dogs.  Inevitably some would die during their stay at the castle, so in 1847, a Dog cemetery was created complete with small, carved grave stones."
+		pop_image = "timeline/period_5/dog-cem.jpg" />
+		
+		
+	<thumbnail title = "Proposed Developments"
+		image = "timeline/period_5/thumbs/thumb_3.jpg"
+		pop_text = "During the Victorian era a number of schemes were proposed to make Edinburgh Castle a more attractive feature on the city skyline.  Some people felt it should be turned into a monument which reflected Britain¬¨ˆ‚s prosperity.  The grandest and more bizarre were discarded, but they did result in a number of developments such as the rebuilding of the Gatehouse and the restoration of the Great Hall."
+		pop_image = "timeline/period_5/victorian.jpg" />
+		
+</period>
+
+<period description = "Castle begins to be used more as a Museum&lt;br&gt;&lt;br&gt;David's Tower rediscovered and opened to visitors&lt;br&gt;&lt;br&gt;Scottish National War Memorial (SNWM) opened by Prince of Wales&lt;br&gt;&lt;br&gt;Honours buried in Palace basement and then David's Tower for safe-keeping during WWII&lt;br&gt;&lt;br&gt;Creation of a tunnel through the castle rock to allow military traffic access to the barracks without endangering tourists&lt;br&gt;&lt;br&gt;Stone of Destiny put on permanent display in Crown Room">
+<thumbnail title = "Stone of Destiny"
+dates="1900
+
+1912
+
+1927
+
+1939-44
+
+1980
+
+
+1996"
+		image = "timeline/period_6/thumbs/thumb_1.jpg"
+		pop_text = "The Stone had served as the seat on which Scottish Kings had been inaugurated for over 400 years until its removal from Scone Abbey to London in 1296. For nearly 700 years monarchs of England and later Great Britain and Ireland were crowned on the Stone in Westminster Abbey. On St. Andrew's Day, 1996, the Stone of Destiny was returned to Scotland and now rests in the Crown Room alongside the Honours of Scotland."
+		pop_image = "timeline/period_6/stone_destiny.jpg" />
+		
+<thumbnail title = "Military Tattoo"
+		image = "timeline/period_6/thumbs/thumb_2.jpg"
+		pop_text = 	"The performance of the Military Tattoo began in 1950 as a small marching and countermarching of Scottish bagpipes and drums back and forth across the Castle Esplanade.  It has grown into one of the world's greatest international performances incorporating military bands from around the world. The castle is a magnificent backdrop for the Tattoo performances which happen every August."
+		pop_image = "timeline/period_6/tattoo.jpg" />
+		
+<thumbnail title = "Historic Scotland"
+		image = "timeline/period_6/thumbs/thumb_3.jpg"
+		pop_text = "Historic Scotland is a governmentally funded organization that safeguards Scotland's built heritage and promotes its understanding and enjoyment.  Edinburgh Castle is just one of over 300 historic sites maintained by Historic Scotland."
+		pop_image = "timeline/period_6/HS.jpg" />
+		
+		
+</period>
+</content>
