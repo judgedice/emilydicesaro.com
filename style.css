@@ -1,0 +1,360 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body {
+	background: #F0F0F0;	
+	position:absolute;
+	width:100%;
+	margin:0;
+}
+
+#masthead {
+	position:fixed;
+	left:0;
+	width:100%;	
+	padding:-25px 0 0 0;
+	z-index: 900;
+}
+
+#main_nav ul {
+	display:block;	
+}
+
+#main_nav ul li {
+	display:inline-block;
+	padding: 0;
+	margin: 0 0px;
+	
+}
+
+
+#main_nav {
+	display:inline;
+	position:absolute;	
+	z-index: 1000;
+	padding: 14px 10px 0 10px;
+}
+
+#bg_container {
+	position:absolute;
+	display:block;
+	top:100px;
+	width: 1400px;
+	height:600px;
+	background: url(images/bg-backdrop-shadows.png) no-repeat scroll 0 -8px;
+}
+
+#outer_container {
+	position:absolute;
+	display:block;
+	height:600px;
+	overflow:auto;
+	width:100%;
+	margin: 60px 0 0 0;
+	background: url(images/bg-backdrop-shadows.png) no-repeat scroll 0 -8px;
+}
+
+#inner_container {
+	background: #FFF;
+	position:absolute;
+	left:50px;
+	top:31px;
+	height:502px;
+	clear: both;
+}
+
+
+#left_endcap {
+	position:absolute;
+}
+
+#right_endcap {
+	position:absolute;
+	right:0px;	
+	top: -31px;
+}
+
+.inner_example {
+	padding: 15px 0 0 0;
+    display: inline-block;
+	vertical-align:top;
+    display: inline /9;
+    width: 1000px;
+    margin: 0;
+    margin-left: 550px;
+    height: 400px;
+}
+
+.junction {
+	margin-top: 0;
+}
+
+.junction .copy {
+	padding-top: 0;
+}
+
+
+.copy_bio {
+	padding:35px 0 0 0px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:12px;
+	line-height:1.5em;
+	width:500px;
+	color:#999;
+}  
+.copy {
+	padding:15px 0 0 15px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:12px;
+	line-height:1.5em;
+	width:100%;
+	color:#999;
+}
+
+
+
+
+.title {
+	font-weight:normal;
+	font-size:19px;
+	color:#999;
+	padding:0 0 5px 0;
+	line-height:1.5em;
+}
+
+.bio-title {
+	font-weight:normal;
+	font-size:19px;
+	color:#666;
+	padding:0 0 10px 0;
+}
+
+.decorative_img{
+	position:relative;
+	padding:10px 0 10px 5px;
+	margin-left:180px;
+
+}
+
+.wlink {
+    cursor: pointer;
+	float: left;
+	clear: right;
+	position: relative;
+	width: 40px;
+	height: 40px;
+	display: block;
+}
+
+.wlkink:hover {
+    font-variant: small-caps;
+}
+
+.spacer {
+	display: inline-block;
+	width: 25px;	
+}
+#weathercompany_link {
+    background: transparent url('portfolio_images/buttons_for_site/weathercompany_btn.png') no-repeat 0 -40px;
+
+	}
+
+#weathercompany_link:hover {
+    background: transparent url('portfolio_images/buttons_for_site/weathercompany_btn.png') no-repeat 0 0px;
+
+	}
+
+	#ibm_link {
+		background: transparent url('portfolio_images/buttons_for_site/ibm_btn.png') no-repeat 0 -40px;
+	
+		}
+	
+	#ibm_link:hover {
+		background: transparent url('portfolio_images/buttons_for_site/ibm_btn.png') no-repeat 0 0px;
+	
+		}
+
+#broadridge_link {
+    background: transparent url('portfolio_images/buttons_for_site/broadridge_btn.png') no-repeat 0 -40px;
+
+	}
+
+#broadridge_link:hover {
+    background: transparent url('portfolio_images/buttons_for_site/broadridge_btn.png') no-repeat 0 0px;
+
+	}
+	
+#bridgeline_link {
+    background: transparent url('portfolio_images/buttons_for_site/bridgeline_btn.png') no-repeat 0 -40px;
+
+	}
+
+#bridgeline_link:hover {
+    background: transparent url('portfolio_images/buttons_for_site/bridgeline_btn.png') no-repeat 0 0px;
+
+	}
+
+
+#m_rafferty_site1_link {
+    background: transparent url('portfolio_images/buttons_for_site/m_rafferty_site1_btn.png') no-repeat 0 -40px;
+
+	}
+
+#m_rafferty_site1_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/m_rafferty_site1_btn.png') no-repeat 0 0px;
+	
+	}
+	
+
+	
+#miss_priss_link {
+    background: transparent url('portfolio_images/buttons_for_site/miss_priss_btn.png') no-repeat 0 -40px;
+
+	}
+
+#miss_priss_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/miss_priss_btn.png') no-repeat 0 0px;
+}
+	
+#fastweb_link {
+    background: transparent url('portfolio_images/buttons_for_site/fastweb_btn.png') no-repeat 0 -40px;
+
+	}
+
+#fastweb_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/fastweb_btn.png') no-repeat 0 0px;
+	}
+	
+#emily_link {
+	background: transparent url('portfolio_images/buttons_for_site/emily_btn.png') no-repeat 0 -40px;
+
+	}
+
+#emily_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/emily_btn.png') no-repeat 0 0px;
+	}
+
+#m_rafferty_site2_link {
+    background: transparent url('portfolio_images/buttons_for_site/m_rafferty_site2_btn.png') no-repeat 0 -40px;
+
+	}
+
+#m_rafferty_site2_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/m_rafferty_site2_btn.png') no-repeat 0 0px;
+	}
+	
+#explore_site_link {
+	 background: transparent url('portfolio_images/buttons_for_site/explore_site_btn.png') no-repeat 0 -40px;
+
+	}
+
+#explore_site_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/explore_site_btn.png') no-repeat 0 0px;
+	}
+	
+#junction_link {
+    background: transparent url('portfolio_images/buttons_for_site/junction_btn.png') no-repeat 0 -40px;
+
+	}
+
+#junction_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/junction_btn.png') no-repeat 0 0px;
+	}
+	
+#ab_wedding_link {
+    background: transparent url('portfolio_images/buttons_for_site/ab_wedding_btn.png') no-repeat 0 -40px;
+
+	}
+
+#ab_wedding_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/ab_wedding_btn.png') no-repeat 0 0px;
+	}
+	
+#edinburgh_flyers_link {
+    background: transparent url('portfolio_images/buttons_for_site/edinburgh_flyers_btn.png') no-repeat 0 -40px;
+
+	}
+
+#edinburgh_flyers_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/edinburgh_flyers_btn.png') no-repeat 0 0px;
+	}
+	
+#UofH_link {
+    background: transparent url('portfolio_images/buttons_for_site/UofH_btn.png') no-repeat 0 -40px;
+
+	}
+
+#UofH_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/UofH_btn.png') no-repeat 0 0px;
+	}
+	
+#dunedin_arts_link {
+    background: transparent url('portfolio_images/buttons_for_site/dunedin_arts_btn.png') no-repeat 0 -40px;
+
+	}
+
+#dunedin_arts_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/dunedin_arts_btn.png') no-repeat 0 0px;
+	}
+	
+#dicesaro_wedding_link {
+    background: transparent url('portfolio_images/buttons_for_site/dicesaro_wedding_btn.png') no-repeat 0 -40px;
+
+	}
+
+#dicesaro_wedding_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/dicesaro_wedding_btn.png') no-repeat 0 0px;
+	}
+	
+	
+#nuveen_link {
+    background: transparent url('portfolio_images/buttons_for_site/nuveen_btn.png') no-repeat 0 -40px;
+
+	}
+
+#nuveen_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/nuveen_btn.png') no-repeat 0 0px;
+	}
+	
+#nuveen2_link {
+    background: transparent url('portfolio_images/buttons_for_site/2nuveen_btn.png') no-repeat 0 0px;
+
+	}
+
+#nuveen2_link:hover {
+	background: transparent url('portfolio_images/buttons_for_site/2nuveen_btn.png') no-repeat 0 -40px;
+	}
+/*	
+.wlink:hover {
+	background-position: 0 -40px;	
+}
+*/
+	
+#about_me_link {
+	padding: 10px 0 0 20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#666;
+	cursor: pointer;
+	float: left;
+	clear: right;
+	position: relative;
+	width: 150px;
+	height: 40px;
+	display: block;
+	}
+
+
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
