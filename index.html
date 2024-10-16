@@ -296,30 +296,5 @@ grow as a design manager.
 	</div> <!--INNER CONTAINER-->
 </div> <!--OUTER CONTAINER-->
 
-<script type="text/javascript">
-    // Your custom JavaScript code
-    $(document).ready(function() {
-        var listLength = $("#main_nav ul li").length;
-        var itemWidth = parseInt( $(".inner_example").css("width").replace(/[^-\d\.]/g, '') ) + parseInt( $(".inner_example").css("marginLeft").replace(/[^-\d\.]/g, '') );
-
-        var containerWidth = listLength * itemWidth - 100;
-        $(".first").css( "marginLeft", "50px" );
-        $("#inner_container").css( "width", containerWidth );
-        $("#home_img").click( function(){ $( '#outer_container' ).scrollTo( 0, animationDuration, { easing:'easeInOutCubic'} ); } );
-        $('.wlink').click( function(){
-            var thisclass = $(this).attr('id');
-            var goclass = "." + thisclass.split( "_link" )[0];
-            var gox = $( goclass ).position().left;
-            if( goclass == ".weathercompany" )
-            {
-                $( '#outer_container' ).scrollTo( gox, animationDuration, { easing:'easeInOutCubic'} );
-            }else {
-                $( '#outer_container' ).scrollTo( gox + 555, animationDuration, { easing:'easeInOutCubic'} );
-            }
-            trackerFunction();
-        });
-    });
-</script>
-
 </body>
 </html>
