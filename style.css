@@ -41,7 +41,7 @@ html, body {
 	top:100px;
 	width: 1400px;
 	height:600px;
-	background: url(images/bg-backdrop-shadows.png) no-repeat scroll 0 -8px;
+	background: url(./images/bg-backdrop-shadows.png) no-repeat scroll 0 -8px;
 }
 
 #outer_container {
@@ -51,7 +51,7 @@ html, body {
 	overflow:auto;
 	width:100%;
 	margin: 60px 0 0 0;
-	background: url(images/bg-backdrop-shadows.png) no-repeat scroll 0 -8px;
+	background: url(./images/bg-backdrop-shadows.png) no-repeat scroll 0 -8px;
 }
 
 #inner_container {
@@ -155,174 +155,174 @@ html, body {
 	width: 25px;	
 }
 #weathercompany_link {
-    background: transparent url('portfolio_images/buttons_for_site/weathercompany_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/weathercompany_btn.png') no-repeat 0 -40px;
 
 	}
 
 #weathercompany_link:hover {
-    background: transparent url('portfolio_images/buttons_for_site/weathercompany_btn.png') no-repeat 0 0px;
+    background: transparent url('./portfolio_images/buttons_for_site/weathercompany_btn.png') no-repeat 0 0px;
 
 	}
 
 	#ibm_link {
-		background: transparent url('portfolio_images/buttons_for_site/ibm_btn.png') no-repeat 0 -40px;
+		background: transparent url('./portfolio_images/buttons_for_site/ibm_btn.png') no-repeat 0 -40px;
 	
 		}
 	
 	#ibm_link:hover {
-		background: transparent url('portfolio_images/buttons_for_site/ibm_btn.png') no-repeat 0 0px;
+		background: transparent url('./portfolio_images/buttons_for_site/ibm_btn.png') no-repeat 0 0px;
 	
 		}
 
 #broadridge_link {
-    background: transparent url('portfolio_images/buttons_for_site/broadridge_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/broadridge_btn.png') no-repeat 0 -40px;
 
 	}
 
 #broadridge_link:hover {
-    background: transparent url('portfolio_images/buttons_for_site/broadridge_btn.png') no-repeat 0 0px;
+    background: transparent url('./portfolio_images/buttons_for_site/broadridge_btn.png') no-repeat 0 0px;
 
 	}
 	
 #bridgeline_link {
-    background: transparent url('portfolio_images/buttons_for_site/bridgeline_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/bridgeline_btn.png') no-repeat 0 -40px;
 
 	}
 
 #bridgeline_link:hover {
-    background: transparent url('portfolio_images/buttons_for_site/bridgeline_btn.png') no-repeat 0 0px;
+    background: transparent url('./portfolio_images/buttons_for_site/bridgeline_btn.png') no-repeat 0 0px;
 
 	}
 
 
 #m_rafferty_site1_link {
-    background: transparent url('portfolio_images/buttons_for_site/m_rafferty_site1_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/m_rafferty_site1_btn.png') no-repeat 0 -40px;
 
 	}
 
 #m_rafferty_site1_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/m_rafferty_site1_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/m_rafferty_site1_btn.png') no-repeat 0 0px;
 	
 	}
 	
 
 	
 #miss_priss_link {
-    background: transparent url('portfolio_images/buttons_for_site/miss_priss_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/miss_priss_btn.png') no-repeat 0 -40px;
 
 	}
 
 #miss_priss_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/miss_priss_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/miss_priss_btn.png') no-repeat 0 0px;
 }
 	
 #fastweb_link {
-    background: transparent url('portfolio_images/buttons_for_site/fastweb_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/fastweb_btn.png') no-repeat 0 -40px;
 
 	}
 
 #fastweb_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/fastweb_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/fastweb_btn.png') no-repeat 0 0px;
 	}
 	
 #emily_link {
-	background: transparent url('portfolio_images/buttons_for_site/emily_btn.png') no-repeat 0 -40px;
+	background: transparent url('./portfolio_images/buttons_for_site/emily_btn.png') no-repeat 0 -40px;
 
 	}
 
 #emily_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/emily_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/emily_btn.png') no-repeat 0 0px;
 	}
 
 #m_rafferty_site2_link {
-    background: transparent url('portfolio_images/buttons_for_site/m_rafferty_site2_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/m_rafferty_site2_btn.png') no-repeat 0 -40px;
 
 	}
 
 #m_rafferty_site2_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/m_rafferty_site2_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/m_rafferty_site2_btn.png') no-repeat 0 0px;
 	}
 	
 #explore_site_link {
-	 background: transparent url('portfolio_images/buttons_for_site/explore_site_btn.png') no-repeat 0 -40px;
+	 background: transparent url('./portfolio_images/buttons_for_site/explore_site_btn.png') no-repeat 0 -40px;
 
 	}
 
 #explore_site_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/explore_site_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/explore_site_btn.png') no-repeat 0 0px;
 	}
 	
 #junction_link {
-    background: transparent url('portfolio_images/buttons_for_site/junction_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/junction_btn.png') no-repeat 0 -40px;
 
 	}
 
 #junction_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/junction_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/junction_btn.png') no-repeat 0 0px;
 	}
 	
 #ab_wedding_link {
-    background: transparent url('portfolio_images/buttons_for_site/ab_wedding_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/ab_wedding_btn.png') no-repeat 0 -40px;
 
 	}
 
 #ab_wedding_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/ab_wedding_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/ab_wedding_btn.png') no-repeat 0 0px;
 	}
 	
 #edinburgh_flyers_link {
-    background: transparent url('portfolio_images/buttons_for_site/edinburgh_flyers_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/edinburgh_flyers_btn.png') no-repeat 0 -40px;
 
 	}
 
 #edinburgh_flyers_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/edinburgh_flyers_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/edinburgh_flyers_btn.png') no-repeat 0 0px;
 	}
 	
 #UofH_link {
-    background: transparent url('portfolio_images/buttons_for_site/UofH_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/UofH_btn.png') no-repeat 0 -40px;
 
 	}
 
 #UofH_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/UofH_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/UofH_btn.png') no-repeat 0 0px;
 	}
 	
 #dunedin_arts_link {
-    background: transparent url('portfolio_images/buttons_for_site/dunedin_arts_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/dunedin_arts_btn.png') no-repeat 0 -40px;
 
 	}
 
 #dunedin_arts_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/dunedin_arts_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/dunedin_arts_btn.png') no-repeat 0 0px;
 	}
 	
 #dicesaro_wedding_link {
-    background: transparent url('portfolio_images/buttons_for_site/dicesaro_wedding_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/dicesaro_wedding_btn.png') no-repeat 0 -40px;
 
 	}
 
 #dicesaro_wedding_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/dicesaro_wedding_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/dicesaro_wedding_btn.png') no-repeat 0 0px;
 	}
 	
 	
 #nuveen_link {
-    background: transparent url('portfolio_images/buttons_for_site/nuveen_btn.png') no-repeat 0 -40px;
+    background: transparent url('./portfolio_images/buttons_for_site/nuveen_btn.png') no-repeat 0 -40px;
 
 	}
 
 #nuveen_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/nuveen_btn.png') no-repeat 0 0px;
+	background: transparent url('./portfolio_images/buttons_for_site/nuveen_btn.png') no-repeat 0 0px;
 	}
 	
 #nuveen2_link {
-    background: transparent url('portfolio_images/buttons_for_site/2nuveen_btn.png') no-repeat 0 0px;
+    background: transparent url('./portfolio_images/buttons_for_site/2nuveen_btn.png') no-repeat 0 0px;
 
 	}
 
 #nuveen2_link:hover {
-	background: transparent url('portfolio_images/buttons_for_site/2nuveen_btn.png') no-repeat 0 -40px;
+	background: transparent url('./portfolio_images/buttons_for_site/2nuveen_btn.png') no-repeat 0 -40px;
 	}
 /*	
 .wlink:hover {
